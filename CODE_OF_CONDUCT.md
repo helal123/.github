@@ -17,7 +17,7 @@ Respectful behavior includes:
 * Being considerate, kind, constructive, and helpful.
 * Not engaging in demeaning, discriminatory, harassing, hateful, sexualized, or
   physically threatening behavior, speech, and imagery.
-* Not engaging in unwanted physical contact.
+* Not engaging in unwanted physical contact.خطأ: لم يتم العثور على ملف قفل التبعيات في /home/runner/work/.github/.github. أنماط الملفات المدعومة: package-lock.json،npm-shrinkwrap.json،yarn.lock
 
 Some Google open source projects [may adopt][] an explicit project code of
 conduct, which may have additional detailed expectations for participants. Most
